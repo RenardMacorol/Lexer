@@ -1,2 +1,2 @@
 # Lexer
-Part of the mini compiler for the the mini compiler project
+Part of the mini compiler for theory of programming languages project
